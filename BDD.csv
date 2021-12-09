@@ -1,0 +1,21 @@
+Prenom;Nom;Age;Sexe;Argent;Rang;Pays;Desc;Img
+Jeff;Bezos;57;M;180,6;1;Etats-Unis;Patron d'amazon;img/PhotoID/bezos.png
+Elon;Musk;49;M;153,5;2;Etats-Unis;PDG de Telsa, SpaceX;img/PhotoID/musk.png
+Bill;Gates;65;M;127,3;3;Etats-Unis;;img/PhotoID/gates.png
+Bernard;Arnault;72;M;76;4;France;;img/PhotoID/arnault.png
+Warren;Buffett;90;M;67,5;5;Etats-Unis;;img/PhotoID/buffett.png
+Larry;Ellison;76;M;59;6;Etats-Unis;;img/PhotoID/ellison.png
+Amancio;Ortega;85;M;55,1;7;Espagne;;img/PhotoID/ortega.png
+Mark;Zuckerberg;36;M;54,7;8;Etats-Unis;;img/PhotoID/zuckerberg.png
+Jim;Walton;72;M;54,6;9;Etats-Unis;;img/PhotoID/jwalton.png
+Alice;Walton;71;F;54,4;10;Etats-Unis;;img/PhotoID/awalton.png
+S.Robson;Walton;76;M;54,1;11;Etats-Unis;;img/PhotoID/rwalton.png
+Steve;Ballmer;65;M;52,7;12;Etats-Unis;;img/PhotoID/ballmer.png
+Carlos;Slim Helu;81;M;52,1;13;Mexique;;img/PhotoID/slim.png
+Larry;Page;48;M;50,9;14;Etats-Unis;;img/PhotoID/page.png
+Sergey;Brin;47;M;49,1;15;Etats-Unis;;img/PhotoID/brin.png
+Françoise;Bettencourt;67;F;48,9;16;France;;img/PhotoID/bettencourt.png
+Michael;Bloomberg;79;M;48;17;Etats-Unis;;img/PhotoID/bloomberg.png
+Jack;Ma;56;M;38,8;18;Chine;;img/PhotoID/ma.png
+Charles;Koch;85;M;38,2;19;Etats-Unis;;img/PhotoID/ckoch.png
+Julia;Koch;58;F;38,2;20;Etats-Unis;;img/PhotoID/jkoch.png
